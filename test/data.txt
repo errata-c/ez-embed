@@ -1,0 +1,2 @@
+This is the text file that we are attempting to embed.
+The goal is to load this into a vector or a string and then output the text to the console in the application.
